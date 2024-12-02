@@ -2,4 +2,4 @@
 
 This is placeholder text.
 
-[this is a link to looking forward] (lookingforward.html)
+this is a link to looking forward (lookingforward.html)
