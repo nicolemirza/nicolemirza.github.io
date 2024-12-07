@@ -1,6 +1,4 @@
-# nicolemirza.github.io
-
-This is placeholder text.
+# Welcome!
 
 this is a link to [looking forward](lookingforward.md).
 
