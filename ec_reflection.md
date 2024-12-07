@@ -20,11 +20,11 @@ Hannah deserves special acknowledgment as well. Her hard work and shared enthusi
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; text-align: center;">
   <figure style="margin: 0;">
-    <img src="meintheec.jpeg" alt="Using the EC computers to design in Adobe Illustrator." width="100">
+    <img src="meintheec.jpeg" alt="Using the EC computers to design in Adobe Illustrator." width="200">
     <figcaption style="font-style: italic;">Using the EC computers to design in Adobe Illustrator.</figcaption>
   </figure>
   <figure style="margin: 0;">
-    <img src="hannahinec.jpeg" alt="Hannah working on gluing the pieces together." width="100">
+    <img src="hannahinec.jpeg" alt="Hannah working on gluing the pieces together." width="200">
     <figcaption style="font-style: italic;">Hannah working on gluing the pieces together in the EC.</figcaption>
   </figure>
 </div>
@@ -37,6 +37,6 @@ At the same time, working on this project, in many ways, became a reflection of 
 A small tree with a big story, if you will.
 
 <figure>
-  <img src="communitytree.jpeg" alt="A wooden laser-cut tree consisting of 12 layers, adorned with various stickers representing different holidays." width="300">
+  <img src="communitytree.jpeg" alt="A wooden laser-cut tree consisting of 12 layers, adorned with various stickers representing different holidays." width="200">
   <figcaption style="font-style: italic;">Our finished project, the community tree.</figcaption>
 </figure>
