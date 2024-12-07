@@ -20,11 +20,11 @@ Hannah deserves special acknowledgment as well. Her hard work and shared enthusi
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; text-align: center;">
   <figure style="margin: 0;">
-    <img src="meintheec.jpeg" alt="Using the EC computers to design in Adobe Illustrator." width="300" height="420">
+    <img src="meintheec.jpeg" alt="Using the EC computers to design in Adobe Illustrator." width="300" height="300">
     <figcaption style="font-style: italic;">Using the EC computers to design in Adobe Illustrator.</figcaption>
   </figure>
   <figure style="margin: 0;">
-    <img src="hannahinec.jpeg" alt="Hannah working on gluing the pieces together." width="300" height="420">
+    <img src="hannahinec.jpeg" alt="Hannah working on gluing the pieces together." width="300" height="300">
     <figcaption style="font-style: italic;">Hannah working on gluing the pieces together in the EC.</figcaption>
   </figure>
 </div>
