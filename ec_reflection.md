@@ -1,5 +1,7 @@
 # Reflecting on time spent in the EC and shared humanity.
 
+<body>
+  <p>
 The goal of our project in the EC was to humanize the lives of prisoners by demonstrating how, just like everyone else, they cared about and celebrated holidays. This idea stemmed from our visit to Eastern State Penitentiary, where we learned that prisoners decorated for Christmas and found ways to partake in festivities, despite their circumstances. This moment stuck with us, and we felt compelled to bring that same humanizing lens to our project. Using data from The Umpire, we honed in on the year 1916 because it was the earliest year with the most holidays represented, and used this as our main dataset.
 
 It felt important to emphasize how, even within confinement, people still yearn to celebrate. Especially since this project coincided with the holiday season, the parallels were on our minds. For many, the holidays serve as a form of escape, whether from our busy schedules or everyday responsibilities. The prisoners’ stories of celebrating holidays echoed this universal need, and our project became about bringing light to the parallels between their experiences and ours.
@@ -16,7 +18,7 @@ Reflecting on this, I think the simplification made sense for the circumstances,
 
 Overall, our group worked well together, and the division of tasks felt natural and effective. I truly believe that each member leaned into their strengths, and everyone carried out their responsibilities with care and dedication. Despite our busy schedules, we found time to collaborate meaningfully. I’d like to highlight Sukya’s contribution–she developed code that streamlined our ability to analyze the dataset and detect the frequency of holiday mentions. This was incredibly helpful in the early stages of the project and allowed us to focus more on the creative aspects.
 
-Hannah deserves special acknowledgment as well. Her hard work and shared enthusiasm for the design process made every challenge feel manageable. Whether we were designing in Adobe Illustrator or gluing the final pieces together, there was a true sense of partnership. In the attached pictures, you’ll see both of us fully immersed in the fabrication process.
+Hannah deserves special acknowledgment as well. Her hard work and shared enthusiasm for the design process made every challenge feel manageable. Whether we were designing in Adobe Illustrator or gluing the final pieces together, there was a true sense of partnership. In the attached pictures, you’ll see both of us fully immersed in the fabrication process. </p>
 
   <div style="text-align: center;">
     <figure style="display: inline-block; margin: 0 10px;">
