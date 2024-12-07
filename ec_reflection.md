@@ -33,7 +33,9 @@ Hannah deserves special acknowledgment as well. Her hard work and shared enthusi
 
 <p>To me, this project was not only about telling a story from the past, but also connecting that story to our present lives. Particularly, I see this through recognizing that celebrating the holidays is a shared experience, even in unlikely places. I think our tree succeeds in inviting viewers to step into the world of 1916 prisoners, to imagine their holiday celebrations, and to reflect on the resilience of the human spirit.
 
-At the same time, working on this project, in many ways, became a reflection of our own adaptability as a group. We learned to pivot when necessary, to compromise without losing sight of our vision, and to trust each other’s insights and input. Moving forward, I want to carry this lesson with me: that creative projects are often a balance between ambition and practicality as well as between the original vision and what’s ultimately possible. For now, though, I’m proud of what we’ve created. Although it is a very simple piece, I hope that it can still be thought provoking in some way for the viewer. A small tree with a big story, if you will.</p>
+At the same time, working on this project, in many ways, became a reflection of our own adaptability as a group. We learned to pivot when necessary, to compromise without losing sight of our vision, and to trust each other’s insights and input. Moving forward, I want to carry this lesson with me: that creative projects are often a balance between ambition and practicality as well as between the original vision and what’s ultimately possible. For now, though, I’m proud of what we’ve created. Although it is a very simple piece, I hope that it can still be thought provoking in some way for the viewer. 
+
+A small tree with a big story, if you will.</p>
 </body>
 
 <figure>
