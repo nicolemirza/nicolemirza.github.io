@@ -18,16 +18,16 @@ Overall, our group worked well together, and the division of tasks felt natural 
 
 Hannah deserves special acknowledgment as well. Her hard work and shared enthusiasm for the design process made every challenge feel manageable. Whether we were designing in Adobe Illustrator or gluing the final pieces together, there was a true sense of partnership. In the attached pictures, you’ll see both of us fully immersed in the fabrication process.
 
-  <div style="text-align: center;">
-    <figure style="display: inline-block; margin: 0 10px;">
-      <img src="meintheec.jpeg" alt="Using the EC computers to design in Adobe Illustrator." width="300">
-      <figcaption>Using the EC computers to design in Adobe Illustrator.</figcaption>
-    </figure>
-    <figure style="display: inline-block; margin: 0 10px;">
-      <img src="hannahinec.jpeg" alt="Hannah working on gluing the pieces together" width="300">
-      <figcaption>Hannah working on gluing the pieces together in the EC.</figcaption>
-    </figure>
-  </div>
+<div style="text-align: center; margin-bottom: 20px;">
+  <figure style="display: inline-block; margin: 0 10px;">
+    <img src="meintheec.jpeg" alt="Hannah working on gluing the pieces together="300">
+    <figcaption style="font-style: italic;">Using the EC computers to design in Adobe Illustrator</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 0 10px;">
+    <img src="hannahinec.jpeg" alt="Hannah working on gluing the pieces together." width="300">
+    <figcaption style="font-style: italic;">Hannah working on gluing the pieces together in the EC.</figcaption>
+  </figure>
+</div>
 
 To me, this project was not only about telling a story from the past, but also connecting that story to our present lives. Particularly, I see this through recognizing that celebrating the holidays is a shared experience, even in unlikely places. I think our tree succeeds in inviting viewers to step into the world of 1916 prisoners, to imagine their holiday celebrations, and to reflect on the resilience of the human spirit.
 
@@ -37,5 +37,5 @@ A small tree with a big story, if you will.
 
 <figure>
   <img src="communitytree.jpeg" alt="A wooden laser-cut tree consisting of 12 layers, adorned with various stickers representing different holidays." width="300">
-  <figcaption>Our finished project, the community tree.</figcaption>
+  <figcaption style="font-style: italic;">Our finished project, the community tree.</figcaption>
 </figure>
