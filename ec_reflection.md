@@ -34,6 +34,6 @@ To me, this project was not only about telling a story from the past, but also c
 At the same time, working on this project, in many ways, became a reflection of our own adaptability as a group. We learned to pivot when necessary, to compromise without losing sight of our vision, and to trust each other’s insights and input. Moving forward, I want to carry this lesson with me: that creative projects are often a balance between ambition and practicality as well as between the original vision and what’s ultimately possible. For now, though, I’m proud of what we’ve created. Although it is a very simple piece, I hope that it can still be thought provoking in some way for the viewer. A small tree with a big story, if you will.
 
 <figure>
-  <img src="communitytree.jpeg" alt="A wooden laser-cut tree consisting of 12 layers, adorned with various stickers representing different holidays.">
+  <img src="communitytree.jpeg" alt="A wooden laser-cut tree consisting of 12 layers, adorned with various stickers representing different holidays." width="300">
   <figcaption>Our finished project, the community tree.</figcaption>
 </figure>
