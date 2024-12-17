@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Nicole's Portfolio
 description: >
   Fall 2024 digital humanities portfolio.  
-  <a href="final_statement.md">Final reflection statement</a> <br>
-  <a href="looking_forward.md">What I'm looking forward to</a> <br>
-  <a href="ec_reflection.md">Reflection on our time in the EC</a>
+  <a href="final_statement.html">Final reflection statement</a> <br>
+  <a href="looking_forward.html">What I'm looking forward to</a> <br>
+  <a href="ec_reflection.html">Reflection on our time in the EC</a>
+
