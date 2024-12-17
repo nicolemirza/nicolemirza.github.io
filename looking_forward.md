@@ -1,4 +1,6 @@
 # Looking Forward
+Considering what I've learned this semester, here are some action steps for what I plan to do next:
+
 Take more classes at the Clay Studio → Since I’ll be staying in Philly this summer to work on my research, I think it would be great to balance lab work with pottery classes at the Clay Studio. I used to do pottery and developed a renewed appreciation for it after the workshop earlier this semester. It feels like the perfect way to relax and create something with my hands.
 
 Go back to the Common Press → Discovering that our campus has a resource like the Common Press, free to use, was one of my favorite parts of the semester. I plan to go back and get certified for independent use so I can print art for my apartment, personalized letterhead, or cards for friends and family.
