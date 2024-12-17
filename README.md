@@ -1,6 +1,6 @@
 # Welcome!
 
-Thanks for visiting. Here you can find a small glimpse into my past semester. You can navigate using the linked pages below.
+Thanks for visiting. Here you can find a small glimpse into my past semester. You can navigate using the linked pages to the left or below.
 
 Here is my [final reflection statement](final_statement.md).
 
