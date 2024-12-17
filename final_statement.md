@@ -22,7 +22,7 @@ Even as I am typing this statement, the act of creating and generating text remi
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; text-align: center;">
   <figure style="margin: 0;">
-    <img src="press2.jpeg" alt="Adventures with the printing press." width="300" height="300">
+    <img src="press2.jpeg" alt="Adventures with the printing press." width="350" height="300">
     <figcaption style="font-style: italic;">Adventures with the printing press.</figcaption>
   </figure>
   <figure style="margin: 0;">
