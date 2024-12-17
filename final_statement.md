@@ -27,7 +27,7 @@ Even as I am typing this statement, the act of creating and generating text remi
   </figure>
   <figure style="margin: 0;">
     <img src="press1.jpeg" alt="rare printing press" width="300" height="300">
-    <figcaption style="font-style: italic;">A rare press that we have right here on campus! (peep the prison poster in the back)</figcaption>
+    <figcaption style="font-style: italic;">A rare press from Common Press! (peep the prison poster in the back)</figcaption>
   </figure>
 </div>
 
