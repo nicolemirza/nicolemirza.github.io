@@ -26,7 +26,7 @@ Even as I am typing this statement, the act of creating and generating text remi
     <figcaption style="font-style: italic;">Adventures with the printing press.</figcaption>
   </figure>
   <figure style="margin: 0;">
-    <img src="press1.jpeg" alt="rare printing press" width="300" height="300">
+    <img src="press1.jpeg" alt="rare printing press" width="250" height="300">
     <figcaption style="font-style: italic;">A rare press from Common Press! (peep the prison poster in the back)</figcaption>
   </figure>
 </div>
