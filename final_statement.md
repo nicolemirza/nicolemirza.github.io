@@ -5,9 +5,31 @@ One of my key takeaways from this class was understanding the materiality of med
 
 This tension between digital and physical media really stuck with me throughout the class. On the one hand, digital tools let us preserve, access, and study texts in ways we never could before, but on the other, there’s a clear disconnect from the materiality of the original object. Working so much with digital artifacts and data in this class really made me appreciate that materiality even more. This became especially clear during the wheel-throwing pottery class I took at the Clay Studio for my workshop assignment. It was so rewarding to make something completely with my own two hands. That sense of tangibility–the direct connection with the medium you're shaping and creating–felt like the perfect contrast to the digital humanities work we’ve done. In the digital realm, the process of creation often feels abstract and intangible, but working with clay grounded me in a way that reminded me how important the material itself can be.
 
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; text-align: center;">
+  <figure style="margin: 0;">
+    <img src="clay1.jpeg" alt="Taking the pottery wheel for a spin!" width="300" height="300">
+    <figcaption style="font-style: italic;">Taking the pottery wheel for a spin!</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="clay2.jpeg" alt="clay pots" width="300" height="300">
+    <figcaption style="font-style: italic;">I'm so proud of the little pots I made here.</figcaption>
+  </figure>
+</div>
+
 The pottery workshop experience stuck with me even more as we started talking about critical making in class. At first, I attended the clay workshop just as part of the assignment, but once we began our discussions and started the critical making project in the Education Commons, everything really clicked for me. It made me realize just how valuable critical making is, especially in the context of the digital humanities. With so much access to all this data and technology around us, it’s easy to get lost in the weeds and forget about the importance of physicality. Our sessions on critical making were incredibly insightful and showed me that even data–something that feels so inherently “tech-y” and abstract–can be represented in ways that are material, tangible, and, most importantly, interactive. The idea that technology and physicality can work together really shifted how I thought about digital projects. The concept of learning by doing, which is central to critical making, felt so familiar–it was exactly what I had experienced during the pottery workshop. Shaping the clay with my hands gave me a new appreciation for the physical process of creating something, and it was validating to later learn a term for what I had intuitively felt in that moment. I’m really grateful that this course pushed us to step out of our usual routines and attend workshops where we got to practice skills we don’t typically use, like working with our hands.
 
 Even as I am typing this statement, the act of creating and generating text reminds me of the letterpress printing workshop I attended. Both typing on my laptop and using the letterpress achieve the same purpose, but in such different ways. Typing is quick and effortless, while the letterpress required me to be much more intentional, carefully placing each letter by hand. That workshop opened my eyes to how much history is embedded in the technology we use today. Our class often highlighted these connections, like how a laptop’s design mimics the shape of a notebook, even though most of us rarely use physical notebooks anymore. It’s fascinating how these remnants of the past resurface in modern life, and the letterpress workshop taught me how deeply text terminology and even the fonts we use today are rooted in printing traditions from hundreds of years ago. I explore this more in my reflection on the workshop, but it’s clear to me now how much history continues to influence the present, even in ways we don’t always notice.
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; text-align: center;">
+  <figure style="margin: 0;">
+    <img src="press2.jpeg" alt="Adventures with the printing press." width="300" height="300">
+    <figcaption style="font-style: italic;">Adventures with the printing press.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="press1.jpeg" alt="rare printing press" width="300" height="300">
+    <figcaption style="font-style: italic;">A rare press that we have right here on campus! (peep the prison poster in the back)</figcaption>
+  </figure>
+</div>
 
 Continuing on with this discussion of history, preserving history was a central theme in this class, but we focused on how to do so with care and intention. This connects deeply with our discussion about archives, something I had not fully considered until our reading of Dorothy Berry’s “The House Archives Built.” Her essay made me realize how much power archives hold, not just in preserving history, but in shaping how that history is remembered and accessed. Berry talks about how institutional archives often prioritize systems and standards over the people and stories they’re meant to represent, especially when it comes to Black history. That really stuck with me because it made me think about how preservation isn’t just about keeping history safe, it’s about how that history gets presented and who gets to tell it. It’s a complicated line to cross, and I don’t think I fully appreciated how much intentionality is required to do it right until this reading.
 
